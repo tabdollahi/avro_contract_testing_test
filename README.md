@@ -1,1 +1,1 @@
-# avro-contract-testing
+# avro_contract_testing
